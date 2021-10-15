@@ -80,10 +80,10 @@ ${description}
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributors](#contributors)
+- [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
-- [E-mail](#email)
+- [E-mail](#e-mail)
 - [License](#license)
 
 ## Installation
