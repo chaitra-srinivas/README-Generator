@@ -1,5 +1,5 @@
-# Super Awesome Project
-## It's the best!
+# Absolutely Terrific!
+## It's cool
 
 ## Table of Contents (Optional)
 If your README is long, add a table of contents to make it easy for users to find what they need.
@@ -8,9 +8,10 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Credits](#credits)
 - [License](#license)
 ## Installation
-go to nodejs.org for instructions
+gg
 ## Usage
-Install node.js and run the file
+ffgg
 ## Credits
-C S M
+gg
 ## License
+MIT
