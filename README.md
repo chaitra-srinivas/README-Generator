@@ -1,4 +1,4 @@
-# README Generator  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+# README Generator  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg) ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
   ## Overview
   Using this application a developer can generate a professional README file by entering a few details

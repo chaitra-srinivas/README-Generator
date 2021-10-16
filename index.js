@@ -1,9 +1,6 @@
-// Packages needed for this application
 const inquirer = require("inquirer");
 const fs = require("fs");
 const generateMarkdown = require("./utils/generateMarkdown");
-
-//An array of questions for user input
 
 const questions = () => {
   return inquirer.prompt([
@@ -61,8 +58,6 @@ const questions = () => {
   ]);
 };
 
-
-//A function to initialize app
 function init() {
   questions()
     .then((answers) => fs.writeFileSync("README.md", generateMarkdown(answers)))
@@ -70,7 +65,6 @@ function init() {
     .catch((err) => console.log(err));
 }
 
-// Function call to initialize app
 init();
 
 
