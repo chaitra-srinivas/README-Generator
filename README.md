@@ -1,4 +1,4 @@
-# README Generator  ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+# README Generator  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Overview
   Using this application a developer can generate a professional README file by entering a few details
@@ -27,4 +27,6 @@
     ## E-mail
     csmdev@gmail.com
     ## License
-    [Apache License 2.0](https://opensource.org/licenses/Apache-2.0)
+    [MIT](https://opensource.org/licenses/MIT)
+    Copyright 2021 Chaitra Srinivasamurthy 
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

@@ -73,5 +73,5 @@ function init() {
 // Function call to initialize app
 init();
 
-// Function to generate license badges
+
 
