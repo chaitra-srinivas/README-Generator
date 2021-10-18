@@ -50,35 +50,25 @@ function renderLicenseSection(license) {
     return "";
   }
   if (license === "MIT") {
-    licenseSection = `Copyright 2021 Chaitra Srinivasamurthy 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.`;
+    licenseSection = `This application is covered under the MIT License. \n
+    Copyright © 2021 Chaitra Srinivasamurthy.`;
   }
   if (license === "GNU GPLv3") {
-    licenseSection = `Copyright © 2021 Free Software Foundation, Inc. <https://fsf.org/>
+    licenseSection = `Copyright © 2021 Free Software Foundation, Inc. <https://fsf.org/> \n
     Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.`;
   }
   if (license === "GNU AGPLv3") {
-    licenseSection = `Copyright © 2021 Free Software Foundation, Inc. <https://fsf.org/>
+    licenseSection = `Copyright © 2021 Free Software Foundation, Inc. <https://fsf.org/> \n
     Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.`;
   }
   if (license === "GNU LGPLv3") {
-    licenseSection = `Copyright © 2021 Free Software Foundation, Inc. <https://fsf.org/>
+    licenseSection = `Copyright © 2021 Free Software Foundation, Inc. <https://fsf.org/> \n
     Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.`;
   }
   if (license === "Apache License 2.0") {
-    licenseSection = `Copyright 2021 Chaitra Srinivasamurthy
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
- 
-      http://www.apache.org/licenses/LICENSE-2.0
- 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.`;
+    licenseSection = `Licensed under the Apache License, Version 2.0 (the "License"). \n
+    Copyright © 2021 Chaitra Srinivasamurthy;
+    `;
   }
   return licenseSection;
 }
@@ -96,7 +86,6 @@ const generateMarkdown = (data) => {
   - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
-  - [E-mail](#e-mail)
   - [License](#license)
 
     ## Installation
@@ -108,10 +97,10 @@ const generateMarkdown = (data) => {
     ## Tests
     ${data.tests}
     ## Questions
+    For any questions about the project, please visit my 
     GitHub Profile: 
-    [${data.github}](https://github.com/${data.github})
-    ## E-mail
-    ${data.email}
+    [${data.github}](https://github.com/${data.github}) \n
+    or reach out to me @ ${data.email}
     ## License
     ${renderLicenseLink(data.license[0])}
     ${renderLicenseSection(data.license[0])}`;

@@ -16,13 +16,13 @@ const questions = () => {
     },
     {
       type: "input",
-      name: "usage",
-      message: "Usage Information:",
+      name: "installation",
+      message: "Installation Instructions:",
     },
     {
       type: "input",
-      name: "installation",
-      message: "Installation Instructions:",
+      name: "usage",
+      message: "Usage Information:",
     },
     {
       type: "input",
@@ -60,12 +60,11 @@ const questions = () => {
 
 function init() {
   questions()
-    .then((answers) => fs.writeFileSync("./README/README.md", generateMarkdown(answers)))
+    .then((answers) =>
+      fs.writeFileSync("./README/README.md", generateMarkdown(answers))
+    )
     .then(() => console.log("Successfully generated README.md"))
     .catch((err) => console.log(err));
 }
 
 init();
-
-
-

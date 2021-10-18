@@ -1,7 +1,7 @@
-# sdfs  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+# Test  ![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)
 
   ## Overview
-  dfdg
+  Test Desc
 
   ## Table of Contents
 
@@ -10,23 +10,24 @@
   - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
-  - [E-mail](#e-mail)
   - [License](#license)
 
     ## Installation
-    dgg
+    Install
     ## Usage
-    dgdf
+    Usage Infor
     ## Contributing
-    fdgfdg
+    Chaitra
     ## Tests
-    dfgfdg
+    Tests
     ## Questions
+    For any questions about the project, please visit my 
     GitHub Profile: 
-    [dfdfgfd](https://github.com/dfdfgfd)
-    ## E-mail
-    dfgdg
+    [chaitra-srinivas](https://github.com/chaitra-srinivas) 
+
+    or reach out to me @ murthydevc@gmail.com
     ## License
-    [MIT](https://opensource.org/licenses/MIT)
-    Copyright 2021 Chaitra Srinivasamurthy 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+    [GNU LGPL v3](https://www.gnu.org/licenses/lgpl-3.0)
+    Copyright © 2021 Free Software Foundation, Inc. <https://fsf.org/> 
+
+    Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
