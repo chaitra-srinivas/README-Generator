@@ -1,7 +1,7 @@
-# Test  ![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)
+# README Generator  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Overview
-  Test Desc
+   The README Generator can be used by developers to create a professional README.md file for their project. 
 
   ## Table of Contents
 
@@ -13,13 +13,13 @@
   - [License](#license)
 
     ## Installation
-    Install
+    Run npm install to install packages/dependencies (inquirer, fs)
     ## Usage
-    Usage Infor
+    To be prompted with questions about the project, from the directory where the project is located, run node index.js from the terminal. 
     ## Contributing
     Chaitra
     ## Tests
-    Tests
+    Please update tests as appropriate
     ## Questions
     For any questions about the project, please visit my 
     GitHub Profile: 
@@ -27,7 +27,7 @@
 
     or reach out to me @ murthydevc@gmail.com
     ## License
-    [GNU LGPL v3](https://www.gnu.org/licenses/lgpl-3.0)
-    Copyright © 2021 Free Software Foundation, Inc. <https://fsf.org/> 
+    [MIT](https://opensource.org/licenses/MIT)
+    This application is covered under the MIT License. 
 
-    Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+    Copyright © 2021 Chaitra Srinivasamurthy.

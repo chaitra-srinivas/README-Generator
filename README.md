@@ -21,7 +21,7 @@ A professional README.md file is then generated using all the input gathered fro
     ## Contributing
     Chaitra 
     ## Tests
-    Manual testing has been conducted
+    Please update tests as appropriate.
     ## Questions
     For any questions regarding the project please visit my 
     GitHub Profile @ 
