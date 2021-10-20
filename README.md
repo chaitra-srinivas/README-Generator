@@ -1,17 +1,17 @@
-# README generator
+# README generator ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## Overview
 
 The README Generator can be used by developers to create a professional README.md file for their project. This is a CLI application built using node.js and the npm inquirer package. When the application is run from the command line, the user is prompted a few questions about the project. 
 A professional README.md file is then generated using all the input gathered from the user.
 
 ## User Story
-
+```
 AS A developer
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project 
-
+```
 ## Acceptance Criteria
-
+```
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for information about my application repository
 THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
@@ -27,7 +27,7 @@ WHEN I enter my email address
 THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
-
+```
 
 ## Table of Contents
 
@@ -61,7 +61,11 @@ THEN I am taken to the corresponding section of the README
     
     ## License
     [MIT](https://opensource.org/licenses/MIT)
-    Copyright 2021 Chaitra Srinivasamurthy 
     This application is convered under the MIT License.
+    
 
     ## [Walkthrough video](https://youtu.be/E367cOkah00)
+
+
+    Copyright © 2021 Chaitra Srinivasamurthy 
+    
