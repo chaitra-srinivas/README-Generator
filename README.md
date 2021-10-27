@@ -64,7 +64,7 @@ THEN I am taken to the corresponding section of the README
     This application is convered under the MIT License.
     
 
-    ## [Walkthrough video](https://youtu.be/E367cOkah00)
+    ## [Walkthrough video](https://drive.google.com/file/d/1IJ5hbW7u0RcWaXbOVHcByxPS3RWvrr7g/view?usp=sharing)
 
 
     Copyright © 2021 Chaitra Srinivasamurthy 
